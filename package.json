@@ -1,0 +1,20 @@
+{
+  "name": "akzat",
+  "version": "1.0.0",
+  "description": "yes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "AKzat",
+  "license": "ISC",
+  "dependencies": {
+    "browserify": "^17.0.0",
+    "ejs": "^3.1.6",
+    "express": "^4.17.3",
+    "genius-lyrics-api": "^3.2.0",
+    "musicplayer": "^1.0.6",
+    "path": "^0.12.7",
+    "soundcloud-audio": "^1.4.0"
+  }
+}
